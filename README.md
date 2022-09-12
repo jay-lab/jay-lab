@@ -49,5 +49,5 @@
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
 <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />-->
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=jay-lab&show_icons=true&count_private=true&theme=merko&hide=stars,issues" alt="jay-lab" />
+<img src="https://github-readme-stats.vercel.app/api?username=jay-lab&show_icons=true&count_private=true&theme=vue&hide=stars,issues" alt="jay-lab" />
 <!--<p><img src="https://visitor-badge.glitch.me/badge?page_id=lay-lab.jay-lab" alt="visitors"></p>-->
