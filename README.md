@@ -1,6 +1,6 @@
 <h2>Hi 👋, I'm An Seongjin</h2>
 <p>My github.io 👉 https://jay-lab.github.io</p>
-<img align="right" src="./images/typing.gif" width="35%"/>
+<img align="right" src="./images/typing.gif" width="30%"/>
 <!--
 <h2>⚡️ A Few Quick Facts</h2>
 
