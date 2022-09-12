@@ -11,7 +11,7 @@
 </details>
 <p><a target="_blank" href="https://blog.stanleylim.me">Read More</a></p>
 -->
-<img src="https://github-readme-stats.vercel.app/api?username=jay-lab&show_icons=true&count_private=true&theme=vue&hide=stars,issues" alt="jay-lab" />
+<img src="https://github-readme-stats.vercel.app/api?username=jay-lab&show_icons=true&count_private=true&theme=noctis_minimus&hide=stars,issues" alt="jay-lab" />
 
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
