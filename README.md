@@ -1,6 +1,6 @@
 <h2>Hi 👋, I'm An Seongjin</h2>
 <p>My github.io 👉 https://jay-lab.github.io</p>
-<img align="right" src="./images/typing.gif" width="40%"/>
+<img align="right" src="./images/typing.gif" width="40%" style='margin-left: 100px;'/>
 <!--
 <h2>⚡️ A Few Quick Facts</h2>
 
@@ -32,3 +32,4 @@
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=jay-lab&show_icons=true&count_private=true&theme=vue&hide=stars,issues" alt="jay-lab" />
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=80&section=footer" width=100%/>
