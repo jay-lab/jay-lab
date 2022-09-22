@@ -11,11 +11,13 @@
 </details>
 <p><a target="_blank" href="https://blog.stanleylim.me">Read More</a></p>
 -->
-<img src="https://github-readme-stats.vercel.app/api?username=jay-lab&show_icons=true&count_private=true&theme=noctis_minimus&hide=stars,issues" alt="jay-lab" />
 
 <!--
-<img src="https://github-readme-stats.vercel.app/api?username=jay-lab&show_icons=true&count_private=true&theme=noctis_minimus&hide=stars,issues&bg_color=DEG,404b42,000000&title_color=ffffff&hide_border=false&icon_color=ffffff&text_color=ffffff" alt="jay-lab" />
+<img src="https://github-readme-stats.vercel.app/api?username=jay-lab&show_icons=true&count_private=true&theme=noctis_minimus&hide=stars,issues" alt="jay-lab" />
+-->
 
+<img src="https://github-readme-stats.vercel.app/api?username=jay-lab&show_icons=true&count_private=true&theme=noctis_minimus&hide=stars,issues&bg_color=DEG,404b42,000000&title_color=d6d6d6&hide_border=false&text_color=d6d6d6&icon_color=609863" alt="jay-lab" />
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=jay-lab&show_icons=true&count_private=true&theme=noctis_minimus&hide=stars,issues&bg_color=DEG,426449,f2f962&title_color=ffffff&hide_border=false&icon_color=ffffff&text_color=ffffff" alt="jay-lab" />
 -->
 
@@ -40,7 +42,8 @@
 </p>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=80&section=footer" width=100%/>
-<!--
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:446e4c&height=80&section=footer" width=100%/>
+<!--
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=80&section=footer" width=100%/>
 -->
