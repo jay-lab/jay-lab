@@ -42,8 +42,11 @@
 </p>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:446e4c&height=80&section=footer" width=100%/>
-<!--
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=80&section=footer" width=100%/>
+
+<!--
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=80&section=footer" width=100%/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:446e4c&height=80&section=footer" width=100%/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fff,100:1c3f23&height=80&section=footer" width=100%/>
 -->
