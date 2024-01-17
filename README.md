@@ -1,4 +1,4 @@
-<h2>Hi 👋, I'm An Seongjin</h2>
+<h2>👋 Hi, I'm Jin</h2>
 
 <img align="right" src="./images/typing.gif" width="40%"/>
 <!--
@@ -42,7 +42,7 @@
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=pandas&logoColor=white"/>
 </p>
 
-[<img align="left" src="./images/aws-certified-devops-engineer-professional.png"/>](https://www.credly.com/badges/1b387451-8ecf-4567-b2f8-b34ae8d4af3f/public_url)
+[<img align="left" src="./images/aws-certified-devops-engineer-professional-jin.png" width="6%"/>](https://www.credly.com/badges/1b387451-8ecf-4567-b2f8-b34ae8d4af3f/public_url)
 
 
 
