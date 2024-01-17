@@ -1,5 +1,5 @@
 <h2>Hi 👋, I'm An Seongjin</h2>
-<p>My github.io 👉 https://jay-lab.github.io</p>
+
 <img align="right" src="./images/typing.gif" width="40%"/>
 <!--
 <h2>⚡️ A Few Quick Facts</h2>
@@ -39,6 +39,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=pandas&logoColor=white"/>
 </p>
 
 
