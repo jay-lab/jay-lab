@@ -42,6 +42,8 @@
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=pandas&logoColor=white"/>
 </p>
 
+[<img align="left" src="./images/aws-certified-devops-engineer-professional.png"/>](https://www.credly.com/badges/1b387451-8ecf-4567-b2f8-b34ae8d4af3f/public_url)
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=80&section=footer" width=100%/>
