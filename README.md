@@ -1,4 +1,4 @@
-<h2>👋 Hi, I'm Jin</h2>
+<h3>👋 Hi, I'm Jin</h3>
 
 <img align="right" src="./images/typing.gif" width="40%"/>
 <!--
@@ -21,7 +21,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=jay-lab&show_icons=true&count_private=true&theme=noctis_minimus&hide=stars,issues&bg_color=DEG,426449,f2f962&title_color=ffffff&hide_border=false&icon_color=ffffff&text_color=ffffff" alt="jay-lab" />
 -->
 
-<h2>🚀 Some Tools I Use</h2>
+<h3>🚀 Some Tools I Use</h3>
 <p align="left">
 
 <!--<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>-->
