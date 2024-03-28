@@ -50,6 +50,7 @@
 </p>
 
 [<img align="left" src="./images/aws-certified-devops-engineer-professional-jin.png" width="6%"/>](https://www.credly.com/badges/1b387451-8ecf-4567-b2f8-b34ae8d4af3f/public_url)
+[<img align="left" src="./images/cka-certified-kubernetes-administrator.png" width="6%"/>](https://www.credly.com/badges/af37263a-4b61-4961-8ddd-e2711c41487e/public_url)
 
 
 
