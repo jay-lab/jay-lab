@@ -5,6 +5,7 @@
 ### 🎯 Project
 
 - **Bespin Global** - *DevOps Team* **✓**
+  - SK Telecom Co., Ltd. - Cloud Radar Enhancement Project
   - Samsung Electronics Co., Ltd. GateKeeper PJT - Relay and request propagation system
 - **BSG Partners** - *Cloud MSP Team*
   - Samsung E&A Co., Ltd. Engineering Cloud Platform PJT - Data ETL, Serverless with AWS resource
