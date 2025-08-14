@@ -5,6 +5,9 @@
 ### 🎯 Project
 
 - **Bespin Global** - *DevOps Team* **✓**
+  - SK Broadband Co., Ltd. - Jenkins Pipeline Enhancement Project. CI/CD automation and pipeline optimization
+  - Presidential Committee on Policy Planning(국정기획위원회) - "모두의 광장" Project. Public engagement platform for citizen proposals and discussions
+  - AWS ECIRA Advanced Security Architecture Program - Specialized training on enterprise cloud security infrastructure and architecture optimization
   - SK Telecom Co., Ltd. - Cloud Radar Enhancement Project
   - Samsung Electronics Co., Ltd. GateKeeper PJT - Relay and request propagation system
 - **BSG Partners** - *Cloud MSP Team*
