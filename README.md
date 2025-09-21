@@ -2,6 +2,11 @@
 <!--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" />-->
 <!--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Stars" width="25" height="25" />-->
 
+
+
+<!-- =================================================================== -->
+<!-- 프로젝트 경험 -->
+<!-- =================================================================== -->
 ### 🎯 Project
 
 - **Bespin Global** - *DevOps Team* **✓**
@@ -20,29 +25,43 @@
   - DB Insurance Co., Ltd. Renewing the main homepage
   - AIA Life Insurance Co. Ltd. Vitality Digital Direct Platform
 
+
+
+<!-- =================================================================== -->
+<!-- 블로그 링크 -->
+<!-- =================================================================== -->
  📘 **Blog.** https://jaylab.vercel.app/ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Pencil.webp" alt="Pencil" width="25" height="25" />
 <!--<img width=19px align=center alt=":bingo-bango:" title=":bingo-bango:" src=https://user-images.githubusercontent.com/886627/165588956-e19d5e3e-c39f-4304-8f9f-a7cdfd077b69.gif>-->
 
+
+
+
+<!-- =================================================================== -->
+<!-- 타이핑 GIF -->
+<!-- =================================================================== -->
 <img align="right" src="./images/typing.gif" width="40%"/>
-<!--
-<h2>⚡️ A Few Quick Facts</h2>
-<h2>✒️ Recent Posts</h2>
-<details>
-    <summary>Explore</summary>
-    <li><a target="_blank" href="https://blog.stanleylim.me/airpods-not-charging-on-windows">Airpods Not Charging on Windows — August 19, 2022</a></li><li><a target="_blank" href="https://blog.stanleylim.me/the-fastest-way-to-develop-and-deploy-your-next-project">⚡ The Fastest Way to Develop and Deploy Your Next Project — June 09, 2022</a></li><li><a target="_blank" href="https://blog.stanleylim.me/the-browser-in-the-browser-(bitb)-attack---lies,-deceit,-and-css">The Browser in the Browser (BITB) Attack - Lies, Deceit, and CSS — March 30, 2022</a></li><li><a target="_blank" href="https://blog.stanleylim.me/why-i-unit-test-my-sass---mixins">Why I Unit Test My Sass - Mixins — January 31, 2022</a></li><li><a target="_blank" href="https://blog.stanleylim.me/why-i-unit-test-my-sass---functions">Why I Unit Test My Sass - Functions — January 10, 2022</a></li>
-</details>
-<p><a target="_blank" href="https://blog.stanleylim.me">Read More</a></p>
--->
-
-<!--
-<img src="https://github-readme-stats.vercel.app/api?username=jay-lab&show_icons=true&count_private=true&theme=noctis_minimus&hide=stars,issues" alt="jay-lab" />
-<img src="https://github-readme-stats.vercel.app/api?username=jay-lab&show_icons=true&count_private=true&theme=noctis_minimus&hide=stars,issues&bg_color=DEG,426449,f2f962&title_color=ffffff&hide_border=false&icon_color=ffffff&text_color=ffffff" alt="jay-lab" />
--->
-
-<img src="https://github-readme-stats.vercel.app/api?username=jay-lab&show_icons=true&count_private=true&theme=noctis_minimus&hide=stars,issues&bg_color=DEG,404b42,000000&title_color=d6d6d6&hide_border=false&text_color=d6d6d6&icon_color=609863" alt="jay-lab" />
 
 
 
+<!-- =================================================================== -->
+<!-- Profile Summary Cards -->
+<!-- =================================================================== -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jay-lab&theme=gruvbox" alt="Profile details badge" width="57%"/>
+
+
+
+<!-- =================================================================== -->
+<!-- (BACKUP) Readme Stats-->
+<!-- =================================================================== -->
+<!--<img src="https://github-readme-stats.vercel.app/api?username=jay-lab&show_icons=true&count_private=true&theme=noctis_minimus&hide=stars,issues&bg_color=DEG,404b42,000000&title_color=d6d6d6&hide_border=false&text_color=d6d6d6&icon_color=609863" alt="jay-lab" />-->
+<!--<img src="https://github-readme-stats.vercel.app/api?username=jay-lab&show_icons=true&count_private=true&theme=noctis_minimus&hide=stars,issues" alt="jay-lab" />
+<img src="https://github-readme-stats.vercel.app/api?username=jay-lab&show_icons=true&count_private=true&theme=noctis_minimus&hide=stars,issues&bg_color=DEG,426449,f2f962&title_color=ffffff&hide_border=false&icon_color=ffffff&text_color=ffffff" alt="jay-lab" />-->
+
+
+
+<!-- =================================================================== -->
+<!-- 기술 스택 -->
+<!-- =================================================================== -->
 <p align="left">
 <!--<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>-->
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
@@ -62,18 +81,30 @@
 <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=Terraform&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>
 </p>
-
-
 <!--<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/>-->
 
+
+
+<!-- =================================================================== -->
+<!-- Certification -->
+<!-- =================================================================== -->
 [<img src="./images/AWS-DevOps-Cert.png" width="7%"/>](https://www.credly.com/badges/1b387451-8ecf-4567-b2f8-b34ae8d4af3f/public_url)
 [<img src="./images/CKA-Cert.png" width="7%"/>](https://www.credly.com/badges/af37263a-4b61-4961-8ddd-e2711c41487e/public_url)
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Running%20Light%20Skin%20Tone.png" alt="Man Running Light Skin Tone" width="30" height="30" />
 
+
+
+<!-- =================================================================== -->
+<!-- Footer -->
+<!-- =================================================================== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=80&section=footer" width=100%/>
-<!--
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9ecaff,100:1c83ff&height=80&section=footer" width=100%/>
+
+
+
+<!-- =================================================================== -->
+<!-- (BACKUP) Footer -->
+<!-- =================================================================== -->
+<!--<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9ecaff,100:1c83ff&height=80&section=footer" width=100%/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=80&section=footer" width=100%/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:446e4c&height=80&section=footer" width=100%/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fff,100:1c3f23&height=80&section=footer" width=100%/>
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fff,100:1c3f23&height=80&section=footer" width=100%/>-->
