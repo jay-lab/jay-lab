@@ -10,6 +10,7 @@
 ### 🎯 Project
 
 - **Bespin Global** - *DevOps Team* **✓**
+  - Samsung C&T Corporation - Homeniq SaaS Platform PJT. Multi-tenant SaaS platform on AWS EKS with GitOps-based tenant onboarding automation
   - SK Broadband Co., Ltd. - Jenkins Pipeline Enhancement Project. CI/CD automation and pipeline optimization
   - Presidential Committee on Policy Planning(국정기획위원회) - "모두의 광장" Project. Public engagement platform for citizen proposals and discussions
   - AWS ECIRA Advanced Security Architecture Program - Specialized training on enterprise cloud security infrastructure and architecture optimization
