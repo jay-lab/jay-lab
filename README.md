@@ -2,88 +2,26 @@
 <!--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" />-->
 <!--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Stars" width="25" height="25" />-->
 
----
 
-<!-- =================================================================== -->
-<!-- 프로젝트 경험 -->
-<!-- =================================================================== -->
-<!--
-### 🎯 Project
 
-- **Bespin Global** - *DevOps Team* **✓**
-  - Samsung C&T Corporation - Homeniq SaaS Platform PJT. Multi-tenant SaaS platform on AWS EKS with GitOps-based tenant onboarding automation
-  - SK Broadband Co., Ltd. - Jenkins Pipeline Enhancement Project. CI/CD automation and pipeline optimization
-  - Presidential Committee on Policy Planning(국정기획위원회) - "모두의 광장" Project. Public engagement platform for citizen proposals and discussions
-  - AWS ECIRA Advanced Security Architecture Program - Specialized training on enterprise cloud security infrastructure and architecture optimization
-  - SK Telecom Co., Ltd. - Cloud Radar Enhancement Project
-  - Samsung Electronics Co., Ltd. GateKeeper PJT - Relay and request propagation system
-- **BSG Partners** - *Cloud MSP Team*
-  - Samsung E&A Co., Ltd. Engineering Cloud Platform PJT - Data ETL, Serverless with AWS resource
-  - BSGON Applications System Management
-  - Soulbrain Co.,Ltd. Analytics Process Platform Development Project 
-- **Netive** - *Development Team*
-  - Kyobo Life Insurance Co., Ltd. Build a mobile subscription process
-  - Hanwha General Insurance Co., Ltd. Advancing SmartInsure
-  - DB Insurance Co., Ltd. Renewing the main homepage
-  - AIA Life Insurance Co. Ltd. Vitality Digital Direct Platform
--->
-### 🎯 Career
+SI 백엔드 개발로 시작해 Cloud MSP를 거쳐 지금은 AWS 위에서 인프라와 배포 파이프라인을 만드는 DevOps 엔지니어입니다.
 
-### Bespin Global · DevOps Team
-`2023.01 – Present` · DevOps Engineer
+**Work** · EKS · Karpenter · Istio · ArgoCD · Terraform · Jenkins<br>
+**Recent** · EKS 멀티테넌트 SaaS 플랫폼 DevOps 전담 (DRS ETL 설계, 부하테스트) · 30개 서비스 수작업 배포를 공통 Jenkins 파이프라인으로 전환<br>
+**Certs** · AWS DevOps Engineer – Professional · CKA
 
-- **Samsung C&T** - Homeniq SaaS Platform
-  AWS EKS 기반 멀티테넌트 SaaS 플랫폼 구축, GitOps 기반 테넌트 온보딩 자동화
-- **SK Broadband** - Jenkins Pipeline Enhancement
-  Jenkins CI/CD 파이프라인 자동화 및 최적화
-- **Presidential Committee on Policy Planning (국정기획위원회)** - "모두의 광장"
-  국민 제안·토론을 위한 공공 참여 플랫폼 구축
-- **AWS ECIRA Advanced Security Architecture Program**  -
-  엔터프라이즈 클라우드 보안 인프라 및 아키텍처 최적화 전문 교육 수료
-- **SK Telecom** - Cloud Radar Enhancement
-  Cloud Radar 플랫폼 기능 고도화
-- **Samsung Electronics** - GateKeeper
-  요청 중계 및 전파 시스템 구축
+### Writing
 
-### BSG Partners · Cloud MSP Team
-`2021.07 – 2022.12` · DevOps Engineer
+운영하면서 겪은 문제와 해결 과정을 기록합니다.
 
-- **Samsung E&A** - Engineering Cloud Platform (ECP)
-  AWS 서버리스 기반 데이터 ETL 파이프라인 구축 (API Gateway, Lambda, Glue, DataSync, RDS)
-- **BSG Partners (in-house)** - BSGON System Management
-  자사 클라우드 비용 관제 솔루션 운영 및 개발 (Django, MongoDB, PostgreSQL)
-- **Soulbrain** - AI Analytics Platform Development
-  AWS 서버리스 스택 기반 애플리케이션 개발 (Amplify, API Gateway, Lambda, S3)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Memo.webp" alt="Memo" width="19" height="19" /> [jaylab.blog](https://jaylab.blog) · 👤 [About / Career](https://jaylab.blog/about)
 
-### Netive · Development Team
-`2019.03 – 2021.06` · Backend Developer
+### Here on GitHub
 
-- **Kyobo Life Insurance** - Mobile Subscription & Customer Proposal System
-  프론트엔드·백엔드 개발 (Spring, Java, JSP, Oracle)
-- **Hanwha General Insurance** - SmartInsure Enhancement
-  프론트엔드·백엔드 개발 (Spring, Java, JSP, Oracle)
-- **DB Insurance** - Main Homepage Renewal
-  프론트엔드·백엔드 개발 (Spring, Java, JSP, Oracle)
-- **AIA Life Insurance** - Vitality Digital Direct Platform
-  프론트엔드·백엔드 개발 (Spring, Java, MyBatis, Oracle)
-- **Samsung Life Insurance** - Direct Channel Enhancement
-  백엔드 개발 (Spring, Java, JSP)
+업무 패턴을 다시 구성한 레퍼런스, 개인 실습 기록, 팀 프로젝트가 있습니다.
 
 
 
-<!-- =================================================================== -->
-<!-- 블로그 링크 -->
-<!-- =================================================================== -->
- 📘 **Blog.** https://jaylab.vercel.app/ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Pencil.webp" alt="Pencil" width="25" height="25" />
-<!--<img width=19px align=center alt=":bingo-bango:" title=":bingo-bango:" src=https://user-images.githubusercontent.com/886627/165588956-e19d5e3e-c39f-4304-8f9f-a7cdfd077b69.gif>-->
-
-
-
-
-<!-- =================================================================== -->
-<!-- 타이핑 GIF -->
-<!-- =================================================================== -->
-<img align="right" src="./images/typing.gif" width="40%"/>
 
 
 
