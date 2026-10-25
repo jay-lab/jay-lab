@@ -8,7 +8,7 @@ SI 백엔드 개발로 시작해 Cloud MSP를 거쳐 지금은 AWS 위에서 인
 
 **Work** · EKS · Karpenter · Istio · ArgoCD · Terraform · Jenkins<br>
 **Recent** · EKS 멀티테넌트 SaaS 플랫폼 DevOps 전담 (DRS ETL 설계, 부하테스트) · 30개 서비스 수작업 배포를 공통 Jenkins 파이프라인으로 전환<br>
-**Certs** · AWS DevOps Engineer – Professional · CKA
+<!-- **Certs** · AWS DevOps Engineer – Professional · CKA -->
 
 ### Writing
 
@@ -72,21 +72,11 @@ SI 백엔드 개발로 시작해 Cloud MSP를 거쳐 지금은 AWS 위에서 인
 <!-- =================================================================== -->
 [<img src="./images/AWS-DevOps-Cert.png" width="7%"/>](https://www.credly.com/badges/1b387451-8ecf-4567-b2f8-b34ae8d4af3f/public_url)
 [<img src="./images/CKA-Cert.png" width="7%"/>](https://www.credly.com/badges/af37263a-4b61-4961-8ddd-e2711c41487e/public_url)
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Running%20Light%20Skin%20Tone.png" alt="Man Running Light Skin Tone" width="30" height="30" />
+<!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Running%20Light%20Skin%20Tone.png" alt="Man Running Light Skin Tone" width="30" height="30" /> -->
 
 
 
 <!-- =================================================================== -->
 <!-- Footer -->
 <!-- =================================================================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=80&section=footer" width=100%/>
-
-
-
-<!-- =================================================================== -->
-<!-- (BACKUP) Footer -->
-<!-- =================================================================== -->
-<!--<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9ecaff,100:1c83ff&height=80&section=footer" width=100%/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=80&section=footer" width=100%/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:446e4c&height=80&section=footer" width=100%/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fff,100:1c3f23&height=80&section=footer" width=100%/>-->
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=80&section=footer" width=100%/> -->
